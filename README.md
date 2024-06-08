@@ -5,4 +5,4 @@
 
 Загальне завдання: розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру.
 
-[Посилання на звіт](https://docs.google.com/document/d/1WqXSopflNfExw6U4jMg7HN5tX47FLGXtP3bueJLtob8/edit?usp=drive_link)
+[Посилання на звіт](https://docs.google.com/document/d/1Y9yZCNWTtgpzS4dpz4J2n0WNa5AHB_pOhKAE3JJPi8g/edit?usp=drive_link)
